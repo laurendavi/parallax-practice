@@ -1,0 +1,21 @@
+.jumbo1{
+    background-image: url(../images/jumbo1.jpeg);
+    height: 100vh;
+    margin-bottom: 0;
+    background-position: center;
+    background-size: cover;
+}
+.jumbo2{
+    background-image: url(../images/jumbo2.jpeg);
+    height: 100vh;
+    margin-bottom: 0;
+    background-position: center;
+}
+.jumbo3{
+    background-image: url(../images/jumbo3.jpeg);
+    height: 100vh;
+    margin-bottom: 0;
+    background-position: center;
+    background-size:cover;
+}
+
